@@ -1,0 +1,29 @@
+{
+  "name": "day-org-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "type": "module",
+  "scripts": {
+    "preinstall": "yarn global add vite"
+ 
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^22.1.0",
+    "cheerio": "^1.0.0-rc.12",
+    "cryptography": "^1.2.3",
+    "file-type": "^18.5.0",
+    "inquirer": "^9.2.1",
+    "mime": "^3.0.0",
+    "mime-types": "^2.1.35",
+    "node-fetch": "^3.3.1",
+    "split-file": "^2.3.0"
+  },
+  "imports": {
+    
+  }
+}
